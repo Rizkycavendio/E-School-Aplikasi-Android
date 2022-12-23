@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46313402927",
+    "project_id": "e-school-a519b",
+    "storage_bucket": "e-school-a519b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46313402927:android:1725c786bf7be2e55a0cda",
+        "android_client_info": {
+          "package_name": "com.kelompok6.e_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46313402927-b5qsfsfg2j1k4rnmd2kd1l7iqg233fbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJagbiwzpkh6vbdFbs0mdLKWX8XdD9i2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46313402927-b5qsfsfg2j1k4rnmd2kd1l7iqg233fbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
